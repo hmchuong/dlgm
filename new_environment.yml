@@ -11,3 +11,4 @@ dependencies:
   - numpy=1.16.4
   - scipy=1.2.1
   - pytz=2019.1
+  - tqdm=4.32.1
